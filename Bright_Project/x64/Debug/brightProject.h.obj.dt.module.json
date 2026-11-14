@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bright_Project\\x64\\Debug\\brightProject.obj",
+            "outputs": [
+                "Bright_Project\\x64\\Debug\\brightProject.h.obj.dt.module.json",
+                "Bright_Project\\x64\\Debug\\brightProject.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
