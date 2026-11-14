@@ -5,6 +5,7 @@ Team name: Bright
 
 
 Members: MERVEILLE SOLENE SOCKO DAMBA
+
          ARYANA CHEN
 
          
