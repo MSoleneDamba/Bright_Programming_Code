@@ -4,7 +4,9 @@ This is our Engineering competition code repository
 Team name: Bright 
 
 
-Members: MERVEILLE SOLENE SOCKO DAMBA
+Members:
+
+MERVEILLE SOLENE SOCKO DAMBA
 
          ARYANA CHEN
 
